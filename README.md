@@ -28,7 +28,7 @@ Self-Cap Touch Controller for Wearable Device.
 [**Datasheet**](documents/NOT YET FOUND https://download.csdn.net/download/raydom07/10628349)
 
 
-## Flash memory - [Winbond 25Q64FWIQ](Winbond%2025Q64FWIQ)
+## Flash memory - [Winbond 25Q64FWIQ](http://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/?__locale=e&partNo=W25Q64FW)
 
 1.8V 64M-BIT serial flash memory with DUAL/QUAD SPI & QPI
 
