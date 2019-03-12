@@ -32,7 +32,7 @@ Self-Cap Touch Controller for Wearable Device.
 
 1.8V 64M-BIT serial flash memory with DUAL/QUAD SPI & QPI
 
-[**Datasheet**](documents/25Q64FWIQ/w25q64fw_revk 07012016 sfdp.pdf)
+[**Datasheet**](documents/25Q64FWIQ/w25q64fw_revk_07012016_sfdp.pdf)
 
 
 ## Bluetooth - [DA14580](https://www.dialog-semiconductor.com/products/connectivity/bluetooth-low-energy/smartbond-da14580-and-da14583)
@@ -53,7 +53,7 @@ In this configuration, there is a flash memory connected to the chip.
 
 [**Datasheet**](documents/DPS310/Infineon-DPS310-DS-v01_00-EN.pdf)
 
-[**Product brief**](documents/DPS310/Infineon-DPS310 Pressure Sensor-PB-v02_00-EN.pdf)
+[**Product brief**](documents/DPS310/Infineon-DPS310_Pressure_Sensor-PB-v02_00-EN.pdf)
 
 
 ## Accelerometer - [LIS2DH12](https://www.st.com/en/mems-and-sensors/lis2dh12.html)
@@ -91,7 +91,7 @@ Ultra-low-power 300mA to 400mA Step-Down Buck DCDC Converter with 360nA Iq in WC
 
 
 
-# Pinouts
+# Pinouts (thanks to Viktor_7)
 
 ![top pcb](images/Amazfit_BIP_top_00.png)
 ![bottom pcb](images/Amazfit_BIP_bot_00.png)
