@@ -1,3 +1,7 @@
+# Firmware
+[barebone firmware for the Bip](https://github.com/dslul/Amazfitbip-FreeRTOS) that uses FreeRTOS and libopencm3.
+
+To port [RebbleOS](https://github.com/ginge/FreeRTOS-Pebble), we need to switch first from the pheripheral library (that doesn't support the L4 family) they're currently using to libopencm3.
 
 # Components
 
@@ -25,7 +29,9 @@ Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, LCD, US
 
 Self-Cap Touch Controller for Wearable Device.
 
-[**Datasheet**](documents/NOT YET FOUND https://download.csdn.net/download/raydom07/10628349)
+[**Datasheet**](documents/NOT YET FOUND)
+
+Can someone who lives in China download it from csdn? https://download.csdn.net/download/raydom07/10628349
 
 
 ## Flash memory - [Winbond 25Q64FWIQ](http://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/?__locale=e&partNo=W25Q64FW)
