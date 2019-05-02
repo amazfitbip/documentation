@@ -1,0 +1,13 @@
+#
+# Touchscreen driver configuration
+#
+if TOUCHSCREEN_MTK_IT7259
+
+config IT7259_FIRMWARE
+	string "IT7259 for Mediatek firmware"
+
+config IT7259_CONFIG
+	string "IT7259 for Mediatek config"
+
+
+endif

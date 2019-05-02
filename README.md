@@ -29,10 +29,13 @@ Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, LCD, US
 
 Self-Cap Touch Controller for Wearable Device.
 
-[**Datasheet**](documents/NOT YET FOUND)
+[**Driver**](documents/IT7259/driver)
 
-Can someone who lives in China download it from csdn? https://download.csdn.net/download/raydom07/10628349
+Can someone who lives in China download the datasheet from csdn? https://download.csdn.net/download/raydom07/10628349
 
+Similar model:
+
+[**IT7257 datasheet**](documents/IT7259/IT7257_A_V0.2_20170712.pdf)
 
 ## Flash memory - [Winbond 25Q64FWIQ](http://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/?__locale=e&partNo=W25Q64FW)
 
