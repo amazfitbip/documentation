@@ -78,11 +78,12 @@ In this configuration, there is a flash memory connected to the chip.
 [**Datasheet**](documents/AK09918/AK09918C.pdf)
 
 
-## Battery charger - [BQ24050](http://www.ti.com/product/BQ24050#)
+## Battery charger - [BQ24045](http://www.ti.com/product/BQ24045#)
 
-1A, Single-Input, Single Cell Li-Ion Battery Charger with Automatic AC/USB Detection.
+1A, Single-Input, Single Cell Li-Ion Battery Charger for 4.35v battery.
+Also, BQ24040 is compatible for 4.2v battery for replacment.
 
-[**Datasheet**](documents/BQ24050/bq24050.pdf)
+[**Datasheet**](http://www.ti.com/lit/ds/symlink/bq24040.pdf)
 
 
 ## Vital signs module - [AS7024](https://ams.com/as7024)
